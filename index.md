@@ -2,5 +2,5 @@
 
 Texto para Markdown
 
-![Imagen of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Texto de imagen](https://octodex.github.com/images/yaktocat.png)
 
